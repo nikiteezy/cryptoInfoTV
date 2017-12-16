@@ -1,0 +1,12 @@
+c:\users\nikiteezy\documents\visual studio 2017\Projects\TVTestForm\TVTestForm\bin\Debug\TVTestForm.exe.config
+c:\users\nikiteezy\documents\visual studio 2017\Projects\TVTestForm\TVTestForm\bin\Debug\TVTestForm.exe
+c:\users\nikiteezy\documents\visual studio 2017\Projects\TVTestForm\TVTestForm\bin\Debug\TVTestForm.pdb
+c:\users\nikiteezy\documents\visual studio 2017\Projects\TVTestForm\TVTestForm\obj\Debug\TVTestForm.csprojResolveAssemblyReference.cache
+c:\users\nikiteezy\documents\visual studio 2017\Projects\TVTestForm\TVTestForm\obj\Debug\TVTestForm.Properties.Resources.resources
+c:\users\nikiteezy\documents\visual studio 2017\Projects\TVTestForm\TVTestForm\obj\Debug\TVTestForm.csproj.GenerateResource.Cache
+c:\users\nikiteezy\documents\visual studio 2017\Projects\TVTestForm\TVTestForm\obj\Debug\TVTestForm.csproj.CoreCompileInputs.cache
+c:\users\nikiteezy\documents\visual studio 2017\Projects\TVTestForm\TVTestForm\obj\Debug\TVTestForm.exe
+c:\users\nikiteezy\documents\visual studio 2017\Projects\TVTestForm\TVTestForm\obj\Debug\TVTestForm.pdb
+c:\users\nikiteezy\documents\visual studio 2017\Projects\TVTestForm\TVTestForm\bin\Debug\Newtonsoft.Json.dll
+c:\users\nikiteezy\documents\visual studio 2017\Projects\TVTestForm\TVTestForm\bin\Debug\Newtonsoft.Json.xml
+c:\users\nikiteezy\documents\visual studio 2017\Projects\TVTestForm\TVTestForm\obj\Debug\TVTestForm.FormMain.resources
