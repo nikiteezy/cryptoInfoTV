@@ -23,22 +23,34 @@ namespace TVTestForm
 
         private void Form1_Load(object sender, EventArgs e)
         {
-            getCoinInfo("xem");
+            UpdateInfoFirst("XEM");
+
             
         }
-        void getCoinInfo(string coin)
+        void GetCoinInfo(string coin, ref decimal last, ref decimal bid, ref decimal ask)
         {
             using (WebClient wc = new WebClient())
             {
                 string response = wc.DownloadString(link_getMarketSummary + coin);
                 var jStr = JsonConvert.DeserializeObject<dynamic>(response);
-                decimal last = jStr.result[0].Last;
-                nameCoinFirstLbl.Text = "" + last;
+                last = jStr.result[0].Last;
+                bid = jStr.result[0].Bid;
+                ask = jStr.result[0].Ask;
             }
         }
         //update
         #region
-
+        void UpdateInfoFirst(string coin)
+        {
+            decimal last = 0, bid = 0, ask = 0;
+            GetCoinInfo(coin, ref last, ref bid, ref ask);
+            coinName_first.Text = coin;
+            coinLast_first.Text = "" + last;
+            coinBid_first.Text = "" + bid;
+            coinAsk_first.Text = "" + ask;           
+        }
         #endregion
+
+       
     }
 }

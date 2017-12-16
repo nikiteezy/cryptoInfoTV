@@ -28,24 +28,57 @@
         /// </summary>
         private void InitializeComponent()
         {
-            this.nameCoinFirstLbl = new System.Windows.Forms.Label();
+            this.coinName_first = new System.Windows.Forms.Label();
+            this.coinBid_first = new System.Windows.Forms.Label();
+            this.coinLast_first = new System.Windows.Forms.Label();
+            this.coinAsk_first = new System.Windows.Forms.Label();
             this.SuspendLayout();
             // 
-            // nameCoinFirstLbl
+            // coinName_first
             // 
-            this.nameCoinFirstLbl.AutoSize = true;
-            this.nameCoinFirstLbl.Location = new System.Drawing.Point(47, 32);
-            this.nameCoinFirstLbl.Name = "nameCoinFirstLbl";
-            this.nameCoinFirstLbl.Size = new System.Drawing.Size(35, 13);
-            this.nameCoinFirstLbl.TabIndex = 0;
-            this.nameCoinFirstLbl.Text = "label1";
+            this.coinName_first.AutoSize = true;
+            this.coinName_first.Location = new System.Drawing.Point(70, 29);
+            this.coinName_first.Name = "coinName_first";
+            this.coinName_first.Size = new System.Drawing.Size(35, 13);
+            this.coinName_first.TabIndex = 0;
+            this.coinName_first.Text = "label1";
+            // 
+            // coinBid_first
+            // 
+            this.coinBid_first.AutoSize = true;
+            this.coinBid_first.Location = new System.Drawing.Point(25, 82);
+            this.coinBid_first.Name = "coinBid_first";
+            this.coinBid_first.Size = new System.Drawing.Size(35, 13);
+            this.coinBid_first.TabIndex = 1;
+            this.coinBid_first.Text = "label1";
+            // 
+            // coinLast_first
+            // 
+            this.coinLast_first.AutoSize = true;
+            this.coinLast_first.Location = new System.Drawing.Point(61, 57);
+            this.coinLast_first.Name = "coinLast_first";
+            this.coinLast_first.Size = new System.Drawing.Size(35, 13);
+            this.coinLast_first.TabIndex = 2;
+            this.coinLast_first.Text = "label1";
+            // 
+            // coinAsk_first
+            // 
+            this.coinAsk_first.AutoSize = true;
+            this.coinAsk_first.Location = new System.Drawing.Point(95, 82);
+            this.coinAsk_first.Name = "coinAsk_first";
+            this.coinAsk_first.Size = new System.Drawing.Size(35, 13);
+            this.coinAsk_first.TabIndex = 3;
+            this.coinAsk_first.Text = "label1";
             // 
             // FormMain
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(1214, 985);
-            this.Controls.Add(this.nameCoinFirstLbl);
+            this.Controls.Add(this.coinAsk_first);
+            this.Controls.Add(this.coinLast_first);
+            this.Controls.Add(this.coinBid_first);
+            this.Controls.Add(this.coinName_first);
             this.Name = "FormMain";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Crypto Info";
@@ -57,7 +90,10 @@
 
         #endregion
 
-        private System.Windows.Forms.Label nameCoinFirstLbl;
+        private System.Windows.Forms.Label coinName_first;
+        private System.Windows.Forms.Label coinBid_first;
+        private System.Windows.Forms.Label coinLast_first;
+        private System.Windows.Forms.Label coinAsk_first;
     }
 }
 

@@ -10,3 +10,15 @@ c:\users\nikiteezy\documents\visual studio 2017\Projects\TVTestForm\TVTestForm\o
 c:\users\nikiteezy\documents\visual studio 2017\Projects\TVTestForm\TVTestForm\bin\Debug\Newtonsoft.Json.dll
 c:\users\nikiteezy\documents\visual studio 2017\Projects\TVTestForm\TVTestForm\bin\Debug\Newtonsoft.Json.xml
 c:\users\nikiteezy\documents\visual studio 2017\Projects\TVTestForm\TVTestForm\obj\Debug\TVTestForm.FormMain.resources
+C:\Users\Nikiteezy\Documents\GitHub\cryptoInfoTV\TVTestForm\bin\Debug\TVTestForm.exe.config
+C:\Users\Nikiteezy\Documents\GitHub\cryptoInfoTV\TVTestForm\bin\Debug\TVTestForm.exe
+C:\Users\Nikiteezy\Documents\GitHub\cryptoInfoTV\TVTestForm\bin\Debug\TVTestForm.pdb
+C:\Users\Nikiteezy\Documents\GitHub\cryptoInfoTV\TVTestForm\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Nikiteezy\Documents\GitHub\cryptoInfoTV\TVTestForm\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Nikiteezy\Documents\GitHub\cryptoInfoTV\TVTestForm\obj\Debug\TVTestForm.csprojResolveAssemblyReference.cache
+C:\Users\Nikiteezy\Documents\GitHub\cryptoInfoTV\TVTestForm\obj\Debug\TVTestForm.FormMain.resources
+C:\Users\Nikiteezy\Documents\GitHub\cryptoInfoTV\TVTestForm\obj\Debug\TVTestForm.Properties.Resources.resources
+C:\Users\Nikiteezy\Documents\GitHub\cryptoInfoTV\TVTestForm\obj\Debug\TVTestForm.csproj.GenerateResource.Cache
+C:\Users\Nikiteezy\Documents\GitHub\cryptoInfoTV\TVTestForm\obj\Debug\TVTestForm.csproj.CoreCompileInputs.cache
+C:\Users\Nikiteezy\Documents\GitHub\cryptoInfoTV\TVTestForm\obj\Debug\TVTestForm.exe
+C:\Users\Nikiteezy\Documents\GitHub\cryptoInfoTV\TVTestForm\obj\Debug\TVTestForm.pdb
